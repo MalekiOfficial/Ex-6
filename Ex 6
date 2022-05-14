@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+ <head>
+	<title>Ex 6</title>
+    <meta charset="utf-8">
+ </head>
+ <body dir="rtl">
+	 
+	 <h3> منو کافه </h3>
+	 <ol type="A"> 
+	   <li> نوشیدنی گرم 
+		   <ol>
+			   <li type="1"> کاپوچینو </li>
+		       <li type="1"> نسکافه  </li>
+		       <li type="1"> نوتلا  </li>
+		       <li type="1"> هات چاکلت </li>
+		   </ol>
+	   </li>
+	  </ol>
+		 <br>
+	 <ol type="A" start="2">
+	   <li> نوشیدنی سرد  
+		   <ol>
+			   <li type="1"> اسموتی توت فرنگی </li>
+		       <li type="1"> آب هویج بستنی </li>
+		       <li type="1"> شیر طالبی پسته  </li>
+		       <li type="1"> انبه آناناس کیوی  </li>
+		   </ol>
+	   </li>	 
+	 </ol>
+	 <br>
+ 	 <h3> منو غذا </h3>
+	 <ol type="A" start="3"> 
+	   <li> فست فود 
+		   <ol type="a">
+			   <li> همبرگر </li>
+		       <li> پیتزا  </li>
+		       <li> پاستا  </li>
+		       <li> هاتداگ </li>
+		   </ol>
+	    </li>
+	 </ol>
+	 <br>
+	 <ol type="A" start="4">
+	   <li> غذای ایرانی  
+		   <ol type="a">
+			   <li> کباب کوبیده </li>
+		       <li> جوجه کباب  </li>
+		       <li> زرشک پلو با مرغ  </li>
+		       <li> قلیه ماهی  </li>
+		   </ol>
+	   </li>	 
+	 </ol>
+ </body>
+</html>
